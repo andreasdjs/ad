@@ -1,2 +1,2 @@
 # ad
-Minimalistic webpage.
+Minimalistic webpage. Yes.
